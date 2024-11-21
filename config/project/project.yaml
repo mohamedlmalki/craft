@@ -1,0 +1,25 @@
+dateModified: 1732063061
+email:
+  fromEmail: support@tradesrt.com
+  fromName: carlos
+  replyToEmail: null
+  template: null
+  transportSettings:
+    host: smtp.office365.com
+    password: 'yHU2&z&rtzuMLS&&'
+    port: '587'
+    useAuthentication: '1'
+    username: support@tradesrt.com
+  transportType: craft\mail\transportadapters\Smtp
+meta:
+  __names__:
+    38af3694-0e53-4015-a0e9-79ecf08a35c1: carlos # carlos
+    2714fe9c-3cc2-48d1-b281-fd51d7d24462: carlos # carlos
+    5761e871-ddd4-4fd4-ad78-eebb60e0ecaf: 'Public Schema' # Public Schema
+    c55ca0a9-4bd6-409b-afd8-c1884dafecd0: Team # Team
+system:
+  edition: team
+  live: true
+  name: carlos
+  schemaVersion: 5.5.0.0
+  timeZone: America/Los_Angeles
